@@ -1,0 +1,13 @@
+{
+  "name": "tutor-vision-application",
+  "version": "1.0.0",
+  "description": "A digital tutor application",
+  "scripts": {},
+  "author": "Cory House",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {}
+}
