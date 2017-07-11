@@ -1,15 +1,26 @@
 {
   "name": "tutor-vision-application",
   "version": "1.0.0",
-  "description": "A digital tutor application",
-  "scripts": {},
-  "author": "Cory House",
+  "description": "Digital Tutor Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuppilisatishkumar/Tutor-vision-Application.git"
+  },
+  "author": "Satish",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuppilisatishkumar/Tutor-vision-Application/issues"
+  },
+  "homepage": "https://github.com/kuppilisatishkumar/Tutor-vision-Application#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "jade": "^1.11.0",
-    "jquery": "^3.2.1",
-    "toastr": "^2.1.2"
+    "jade": "^1.11.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
 }
